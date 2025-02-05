@@ -2,10 +2,6 @@
 
 This is a solution to the **[QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)** on Frontend Mentor.
 
-## 📸 Screenshot
-
-![Screenshot](./screenshot.png)
-
 ## ✨ Live Demo
 
 🔗 [Live Site](https://exquisite-phoenix-d699c0.netlify.app)
